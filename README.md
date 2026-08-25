@@ -36,16 +36,6 @@ The dataset is divided into training and testing sets using an 80/20 split with 
 - Scikit-learn
 - Random Forest
 - Tkinter
-
-## 📁 Project Structure
-
-```text
-Loan-Approval-Prediction/
-├── main.py
-├── loan_data.csv
-├── requirements.txt
-├── .gitignore
-└── README.md
 ## 📊 Dataset
 
 The dataset used in this project was created specifically for development and educational purposes.
@@ -60,3 +50,14 @@ It contains sample data based on features such as:
 - Loan Approval Status
 
 The dataset does not represent real loan applicants and is intended only for demonstrating the machine learning workflow.
+  
+
+## 📁 Project Structure
+
+```text
+Loan-Approval-Prediction/
+├── main.py
+├── loan_data.csv
+├── requirements.txt
+├── .gitignore
+└── README.md
