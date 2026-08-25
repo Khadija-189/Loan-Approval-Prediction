@@ -46,3 +46,17 @@ Loan-Approval-Prediction/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+## 📊 Dataset
+
+The dataset used in this project was created specifically for development and educational purposes.
+
+It contains sample data based on features such as:
+
+- Age
+- Salary
+- Credit Score
+- Loan Amount
+- Employment Status
+- Loan Approval Status
+
+The dataset does not represent real loan applicants and is intended only for demonstrating the machine learning workflow.
